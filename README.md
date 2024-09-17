@@ -1,1 +1,1 @@
-this is an Amazon front page clone build with CSS and HTML only.
+This is an Amazon front page clone build with HTML and CSS only.
