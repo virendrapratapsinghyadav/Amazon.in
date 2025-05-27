@@ -19,7 +19,7 @@
   }
 
 .logo{
-    background-image: url("IMAGES/amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -205,7 +205,7 @@
     display: flex;
     justify-content:center;
     align-items: flex-end;
-    background-image: url(IMAGES/hero_image.jpg);
+    background-image: url("images/hero_image.jpg");
     height: 400px;
     background-size: cover;
 }
@@ -251,7 +251,7 @@ a{
 }
 
 .game{
-    background-image: url(IMAGES/box4_image.jpg);
+    background-image: url("images/box4_image.jpg");
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -277,7 +277,7 @@ a{
 }
 
 .clothes{
-    background-image: url(IMAGES/box1_image.jpg);
+    background-image: url("images/box1_image.jpg");
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -303,7 +303,7 @@ a{
 }
 
 .accessories{
-    background-image: url(IMAGES/box2_image.jpg);
+    background-image: url("images/box2_image.jpg");
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -328,7 +328,7 @@ a{
 }
 
 .girls{
-    background-image: url(IMAGES/box8_image.jpg);
+    background-image: url("images/box8_image.jpg");
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -362,7 +362,7 @@ a{
 }
 
 .furniture{
-    background-image: url("IMAGES/box3_image.jpg");
+    background-image: url("images/box3_image.jpg");
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -388,7 +388,7 @@ a{
 }
 
 .makeup{
-    background-image: url("IMAGES/box5_image.jpg");
+    background-image: url("images/box5_image.jpg");
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -414,7 +414,7 @@ a{
 }
 
 .pets{
-    background-image: url("IMAGES/box6_image.jpg");
+    background-image: url("images/box6_image.jpg");
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -439,7 +439,7 @@ a{
 }
 
 .toys{
-    background-image: url("IMAGES/box7_image.jpg");
+    background-image: url("images/box7_image.jpg");
     background-size: cover;
     height: 300px;
     width: 300px;
@@ -528,7 +528,7 @@ p{
 .logo-footer{
     margin-top: 5px;
     margin-bottom: 5px;
-    background-image: url("IMAGES/amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size:contain;
     height: 50px;
     width:80px;
